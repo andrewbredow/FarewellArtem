@@ -1,0 +1,1 @@
+javascript:(function(){farewellScript=document.createElement('script');farewellScript.src='http://localhost/artem/farewell.js';document.getElementsByTagName('head')[0].appendChild(farewellScript);})();
